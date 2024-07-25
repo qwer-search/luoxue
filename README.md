@@ -1,7 +1,7 @@
 ## . 洛雪音乐
-软件请转跳下载: 安卓 -> 洛雪音乐
+软件请转跳下载: [安卓 -> 洛雪音乐](https://github.com/lyswhut/lx-music-mobile/releases)
 
-软件请转跳下载: Windows&MacOS -> 洛雪音乐
+软件请转跳下载: [Windows&MacOS -> 洛雪音乐](https://github.com/lyswhut/lx-music-desktop/releases)
 
 洛雪音乐音源链接：
 
